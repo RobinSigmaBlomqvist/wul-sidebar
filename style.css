@@ -18,7 +18,7 @@ aside {
     height: 100vh;
 }
 .sidebar{
-    text-align: center;
+    text-align: left;
     flex-basis: 16rem;
     background: rgb(5, 20, 120);
     padding: 1rem;
@@ -46,6 +46,15 @@ time {
 .s {
     font-size: smaller;
     margin-bottom: auto;
+}
+abs{
+    color: rgba(255, 0, 0, 0.836)!important;
+}
+.upbring {
+    font-size: smaller;
+}
+.perk {
+    font-size: smaller;
 }
 @font-face {
     font-family: 'Caliban Angelus';
